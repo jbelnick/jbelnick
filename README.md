@@ -22,3 +22,5 @@ Every featured repository includes reproducible checks, public-safe examples,
 and explicit trust boundaries.
 
 [Portfolio](https://www.jasonbelnick.com) · [LinkedIn](https://www.linkedin.com/in/jasonbelnick)
+
+[![Tokens Stats](https://tokens.ci/api/embed/jbelnick/svg?theme=light&template=minimal&graph=1&tokens=compact&cost=compact)](https://tokens.ci/u/jbelnick)
